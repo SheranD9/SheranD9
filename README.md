@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I'm a Front-End Developer<br>I build modern, responsive websites that blend clean design with smooth functionality. With a solid grasp of HTML, CSS, and JavaScript, I'm diving deeper into React and TypeScript to craft seamless user experiences. I'm all about turning ideas into interactive, accessible, and visually appealing web apps.<br><br>🌱 Currently exploring: SCSS, TypeScript, performance optimization, and advanced React techniques<br>🛠 Tools I enjoy: React, JavaScript, SCSS, Figma<br>🚀 Passionate about writing clean code and building interfaces people love to use<br><br>Let’s build something awesome together! ✨<br><br>
+👋 Hey! I'm a Front-End Developer<br>I build modern, responsive websites that blend clean design with smooth functionality. With a solid grasp of HTML, CSS, and JavaScript, I'm diving deeper into React and TypeScript to craft seamless user experiences. I'm all about turning ideas into interactive, accessible, and visually appealing web apps.<br><br>🌱 Currently exploring: SCSS, TypeScript, performance optimization, and advanced React techniques<br>🛠 Tools I enjoy:  JavaScript, SCSS, Figma<br>🚀 Passionate about writing clean code and building interfaces people love to use<br><br>Let’s build something awesome together! ✨<br><br>
 
 
 ## 🌐 Socials:
